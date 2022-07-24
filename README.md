@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunilkar9
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning python
+- 👀 I’m interested in full stack web development
+- 🌱 I’m currently working as a .Net developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me on sunilkarch@gmail.com
 
